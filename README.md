@@ -42,6 +42,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Aldente Pro](https://apphousekitchen.com) - An ALL-IN-ONE Battery Charge Limiter App For MacBooks. - 20% OFF on November 25th
 ### 💸 [Better Battery 2: Stats & Info Pro Edition](https://apps.apple.com/us/app/better-battery-2-stats-info/id1455789676?mt=12) - Better Battery 2 shows information and stats of your MacBook battery in the menu bar. So you are always aware of the current battery stats, battery time and health. Also support showing of real charge level. 65% off for Pro Edition.
 ### 💰 [Menu Bar Bundle for macOS](https://apps.apple.com/us/app-bundle/menu-bar-bundle/id1654807534) - Useful menu utilities for macOS **25% off**
+### 💰 [MacUpdater](https://www.corecode.io/macupdater/) - keep all your apps up-to-date effortlessly **15% off**
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
